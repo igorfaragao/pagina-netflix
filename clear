@@ -1,0 +1,47 @@
+[33mcommit f0911360c55aca332ea43fb7b5fa2315d3e2a5f5[m[33m ([m[1;36mHEAD -> [m[1;32maddPlayer[m[33m, [m[1;32mparte6[m[33m)[m
+Author: Igor Aragao <igorfaragao@gmail.com>
+Date:   Wed Nov 4 07:10:44 2020 -0300
+
+    Criando player, adicionando botoes e função de Play
+
+[33mcommit f88b181551262b49b107d5dd63b860a9a43acde4[m[33m ([m[1;31morigin/parte6[m[33m)[m
+Author: Igor Aragao <igorfaragao@gmail.com>
+Date:   Wed Nov 4 04:31:32 2020 -0300
+
+    Criando responsividade
+
+[33mcommit 1daf1bce782afc5a43b7218faddef343b350ba3f[m[33m ([m[1;31morigin/parte5[m[33m, [m[1;32mparte5[m[33m)[m
+Author: Igor Aragao <igorfaragao@gmail.com>
+Date:   Tue Nov 3 07:55:42 2020 -0300
+
+    Adicionnando carrosel no catalogo do site
+
+[33mcommit d0cf6c7b317578b35a4b4de9de0d71c98102b7dd[m[33m ([m[1;31morigin/parte4[m[33m, [m[1;32mparte4[m[33m)[m
+Author: Igor Aragao <igorfaragao@gmail.com>
+Date:   Tue Nov 3 07:08:40 2020 -0300
+
+    Adicionando icones e transações aos botos do filme principal
+
+[33mcommit 5096c57fa9162502b00bf80a5731e153f4791ce6[m[33m ([m[1;31morigin/parte3[m[33m, [m[1;32mparte3[m[33m)[m
+Author: Igor igo <igorfaragao@gmail.com>
+Date:   Sat Oct 31 03:12:14 2020 -0300
+
+    Adicionando imagens do filme principal, titulo do filme e botoes
+
+[33mcommit aa59853d9b33c2a95d0b5ee10f4fa85e932a7b6f[m[33m ([m[1;31morigin/parte2[m[33m, [m[1;32mparte2[m[33m)[m
+Author: Igor igo <igorfaragao@gmail.com>
+Date:   Fri Oct 30 19:09:36 2020 -0300
+
+    Formatando o CSS, criando logo e menu superior
+
+[33mcommit 9da34b5688a44350fb353702df36039997a371bd[m[33m ([m[1;31morigin/parte1[m[33m)[m
+Author: Igor igo <igorfaragao@gmail.com>
+Date:   Fri Oct 30 18:45:56 2020 -0300
+
+    Criando pastas inicializando HTML e CSS
+
+[33mcommit 66ec119808afb71a97f3f982b1d78dc2a29e1a59[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Igor igo <igorfaragao@gmail.com>
+Date:   Fri Oct 30 18:25:32 2020 -0300
+
+    Criando pastas e Index.html principal
